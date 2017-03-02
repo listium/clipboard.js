@@ -11,7 +11,7 @@
     "cut"
   ],
   "dependencies": {
-    "good-listener": "^1.2.0",
+    "good-listener": "https://github.com/listium/good-listener",
     "select": "^1.1.2",
     "tiny-emitter": "^1.0.0"
   },
